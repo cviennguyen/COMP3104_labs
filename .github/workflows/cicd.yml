@@ -50,4 +50,4 @@ jobs:
           heroku_api_key: ${{secrets.HEROKU_API_KEY}}
           heroku_app_name: "comp3104-devops-101347350" #Must be unique in Heroku
           heroku_email: "nguyencongvien13@gmail.com"
-          dontuseforce: true
+          dontuseforce: 1
