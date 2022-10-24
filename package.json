@@ -13,15 +13,15 @@
   },  
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FJalaliAmeri/COMP3104_Labs.git"
+    "url": "git+https://github.com/cviennguyen/COMP3104_labs.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/FJalaliAmeri/COMP3104_Labs/issues"
+    "url": "https://github.com/cviennguyen/COMP3104_labs/issues"
   },
-  "homepage": "https://github.com/FJalaliAmeri/COMP3104_Labs#readme",
+  "homepage": "https://github.com/cviennguyen/COMP3104_labs#readme",
   "dependencies": 
   {
     "gh-pages": "^2.0.1",
